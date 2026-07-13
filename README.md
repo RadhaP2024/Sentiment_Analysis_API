@@ -297,9 +297,15 @@ Run API
 ```bash
 uvicorn app.main:app --reload
 ```
-
 ---
+# 🌐 Live Demo
 
+API
+https://sentiment-analysis-api-lpko.onrender.com/
+
+Swagger UI
+https://sentiment-analysis-api-lpko.onrender.com/docs#/
+--- 
 # 📊 Performance
 
 - Fast inference
